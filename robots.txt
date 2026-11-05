@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /devis.php
+
+Sitemap: https://www.nepsee.fr/sitemap.xml
